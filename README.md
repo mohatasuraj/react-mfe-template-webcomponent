@@ -1,1 +1,1 @@
-# react-mfe-template-webcomponent
+Mfe Structure
